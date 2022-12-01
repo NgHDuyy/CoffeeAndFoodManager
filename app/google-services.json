@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885541788454",
+    "project_id": "coffeandfoodmanager",
+    "storage_bucket": "coffeandfoodmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885541788454:android:e7ea66d6b3ac8d17a7bfe7",
+        "android_client_info": {
+          "package_name": "com.example.coffeeandfoodmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885541788454-btbq26mtjnba6i6vddgo66n0ujastarg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffeeandfoodmanager",
+            "certificate_hash": "6f6af7c598b7e8a194089da072574e4c7925fc42"
+          }
+        },
+        {
+          "client_id": "885541788454-omek31927fc2dj5rikcsn3rb8qlagucc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbW_cajwVGnhwBtlmELrBN19GgsjoHfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885541788454-omek31927fc2dj5rikcsn3rb8qlagucc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
